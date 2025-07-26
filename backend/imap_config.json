@@ -1,1 +1,1 @@
-{"host": "imap.gmail.com", "port": 993, "username": "chrismartinmattam@gmail.com", "password": "mlpscninoxgkpbti", "folders": ["INBOX"], "filters": null}
+{"host": "imap.gmail.com", "port": 993, "username": "put_your_email_here", "password": "put_your_password_here", "folders": ["INBOX"], "filters": null}
